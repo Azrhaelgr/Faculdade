@@ -1,2 +1,5 @@
 # Faculdade
-Um lugar para salvar os trabalhos de faculdade e outras explorações livres
+Um lugar para salvar trabalhos da faculdade ou exercícios livres
+
+Faça bom uso do que encontrar aqui \
+Feedbacks são bem-vindos!
