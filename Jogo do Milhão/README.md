@@ -12,4 +12,5 @@ Tudo é embaralhado e apresentado dinamicamente ao jogador, e sua resposta é so
 * Ao fim do jogo, a pontuação final é apresentada e, se o jogador atingir a pontuação máxima, este é considerado o ganhador de um milhão de reais (fictícios, infelizmente a verba não permitia a efetivação do prêmio real) e o conteúdo do arquivo *PREMIO.txt* será apresentado
 * As 5 melhores pontuações são armazenadas no arquivo *"highscore.txt"*, e atualizadas ao fim de cada jogo, caso a pontuação final seja elegível ao top 5.
 
+É possível alterar o arquivo _perguntas.txt_ com suas próprias perguntas e respostas. Desafie seus amigos.
 Divirta-se!
