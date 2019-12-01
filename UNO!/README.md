@@ -39,5 +39,5 @@ Nosso Jogador experimenta, com cada carta, sequências de mesma cor (crescente e
 de mesma face, e armazena todas as possíveis jogadas encontradas em uma lista. \
 Por fim, analisa qual possível jogada descartará mais cartas de sua mão (afinal o objetivo do jogo é descartar todas as suas cartas)
 
-Não há dependências para este programa. Apenas execute-o no IDLE do python e assista com atenção.
+Não há dependências para este programa. Apenas execute-o no IDLE do python e assista com atenção. \
 Divirta-se!
