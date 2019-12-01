@@ -16,9 +16,10 @@ Ao invés de utilizar os eventos de pressionamento de botão, \
 este programa constantemente move o quadrado enquanto os botões correspondentes estiverem pressionados.
 
 * Acúmulo de tiros - 
-De acordo com a proposta inicial, só existiria um projétil na tela de cada vez, algo pouco prático para visualizar. \
+De acordo com a proposta inicial, só existiria um projétil na tela de cada vez, algo pouco agradável de visualizar. \
 Esta versão permite que vários tiros sejam disparados.
 
 * Efeito _Heat Up_ - 
-Atirar repetidamente faz com que o quadrado mude de cor, passando para tons de vermelho, depois amarelo e, por último, branco. Se continuar atirando, aparecerá uma "aura" azul em volta do quadrado principal. \
+Atirar repetidamente faz com que o quadrado mude de cor, passando para tons de vermelho, depois amarelo e, por último, branco. \
+Se continuar atirando, aparecerá uma "aura" azul em volta do quadrado principal. \
 É legal de assistir!
