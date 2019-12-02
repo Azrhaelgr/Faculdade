@@ -13,4 +13,5 @@ Tudo é embaralhado e apresentado dinamicamente ao jogador, e sua resposta é so
 * As 5 melhores pontuações são armazenadas no arquivo _"highscore.txt"_, e atualizadas ao fim de cada jogo, caso a pontuação final seja elegível ao top 5.
 
 É possível alterar o arquivo _"perguntas.txt"_ com suas próprias perguntas e respostas. Desafie seus amigos.
+
 Divirta-se!
