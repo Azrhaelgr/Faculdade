@@ -19,7 +19,7 @@ A adrenalina está presente do começo ao fim, assim como o risco iminente de de
 * Cartas +2 e +4 se acumulam! \
 Você não esperava que fosse diferente, certo?
 * As únicas cartas de ação são +2, +4, Bloqueios e Inverter Sentido. \
-Nada de fazer silêncio ao jogar um 7, ou trocar baralhos ao jogar um 9. Quem inventou isso afinal?
+Nada de fazer silêncio ao jogar um 7, bater no cemitério ao jogar um 9 ou trocar baralhos ao jogar um 0. Quem inventou isso afinal?
 
 ## Os Jogadores
 Como mencionado, os jogadores são parte do programa. \
