@@ -12,12 +12,13 @@ Ao concluir estes objetivos, e com algum tempo livre, decidi exercitar a criativ
 Esta versão possui as seguintes características extras:
 
 * Movimento constante - 
-Ao invés de utilizar os eventos de pressionamento de botão, \
+Ao invés de utilizar os eventos de pressionamento de botão uma única vez, \
 este programa constantemente move o quadrado enquanto os botões correspondentes estiverem pressionados.
 
 * Acúmulo de tiros - 
-De acordo com a proposta inicial, só existiria um projétil na tela de cada vez, algo pouco agradável de visualizar. \
-Esta versão permite que vários tiros sejam disparados.
+De acordo com a proposta inicial, só existiria um projétil na tela de cada vez, algo simples de realizar, \
+mas pouco agradável de visualizar. Esta versão permite que vários tiros sejam disparados sequencialmente, \
+e cada um viaja de forma independente.
 
 * Efeito _Heat Up_ - 
 Atirar repetidamente faz com que o quadrado mude de cor, passando para tons de vermelho, depois amarelo e, por último, branco. \
