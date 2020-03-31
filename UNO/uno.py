@@ -98,7 +98,7 @@ class Jogador:
             # caso o risco tenha passado (o jogador anterior puxou as cartas), 
             # há mais jogadas possíveis como cartas da mesma cor e face diferente
             if card.getFace() == ultimaCarta.getFace() or \
-               (card.getCor() == ultimaCarta.getCor()) and card.getCor() != 'Coringa' and  (card.getFace() == '+2' or ultimaCarta.getFace() != '+4') or \
+               (card.getCor() == ultimaCarta.getCor() and card.getCor() != 'Coringa' and  (card.getFace() == '+2' or ultimaCarta.getFace() != '+4')) or \
                (card.getCor() == 'Coringa' and (card.getFace() == '+4' or not('+' in ultimaCarta.getFace()))):
                 
                 possiveis.append([self.cartas[i]])
